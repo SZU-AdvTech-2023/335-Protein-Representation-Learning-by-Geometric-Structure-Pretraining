@@ -1,0 +1,6 @@
+@article{REPO335,
+    author = "Zhang, Zuobai and Xu, Minghao and Jamasb, Arian and Chenthamarakshan, Vijil and Lozano, Aurelie and Das, Payel and Tang, Jian",
+    journal = "arXiv preprint arXiv:2203.06125",
+    title = "{Protein representation learning by geometric structure pretraining}",
+    year = "2022"
+}
